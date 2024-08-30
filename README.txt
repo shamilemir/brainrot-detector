@@ -1,0 +1,1 @@
+change the file directories to your own paths in commands, data, and datakaggle. Honestly just watch rob mullas video

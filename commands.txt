@@ -1,0 +1,3 @@
+python train.py --weights yolov5x.pt --data brainrot/data.yaml --batch-size 16
+
+python detect.py --weights runs/train/exp/weights/best.pt --source 0

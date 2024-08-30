@@ -1,0 +1,15 @@
+train: /Users/shami/yolov5/brainrot/train/images
+val: /Users/shami/yolov5/brainrot/valid/images
+nc: 10
+names:
+  0: poggers
+  1: skibidi-toilet
+  2: ohio
+  3: mewing
+  4: kai-cenat
+  5: amongus
+  6: quandale-dingle
+  7: mouse-pay
+  8: strawberry-elephant
+  9: subscribe-to-tem
+

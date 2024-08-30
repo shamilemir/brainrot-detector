@@ -1,0 +1,16 @@
+train: /kaggle/working/train/images
+val: /kaggle/working/valid/images
+test: /kaggle/working/test/images
+
+nc: 10
+names:
+  0: poggers
+  1: skibidi-toilet
+  2: ohio
+  3: mewing
+  4: kai-cenat
+  5: amongus
+  6: quandale-dingle
+  7: mouse-pay
+  8: strawberry-elephant
+  9: subscribe-to-tem
